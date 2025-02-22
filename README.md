@@ -3,7 +3,7 @@
 A simple Python script that fetches and displays live Bitcoin prices using the CoinGecko API.
 
 ## Why I Built This
-Hi, I’m Sam—33, selling my restaurant after 7 years to pivot into IT. I’m a 2nd-year Software Engineering student passionate about Bitcoin, AI, and trading algorithms. This is my first GitHub project, blending my curiosity about crypto with my new coding skills!
+Hi, I’m Kai, selling my restaurant after 7 years to pivot into IT. I’m a 2nd-year Software Engineering student passionate about Bitcoin, AI, and trading algorithms. This is my first GitHub project, blending my curiosity about crypto with my new coding skills!
 
 ## How It Works
 - Fetches Bitcoin’s USD price every 10 seconds.
